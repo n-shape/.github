@@ -21,15 +21,12 @@ artifacts.
 3. Provide comprehensive analysis tools, including stress analysis and performance metrics, to ensure the integrity and functionality 
 of optimized designs.
 
-4. Support collaboration by enabling seamless sharing and version control of projects.
+4. Foster a community of users and experts who can exchange knowledge and best practices in topological optimization.
 
-5. Continuously improve the software through updates and user feedback to stay ahead of industry trends and emerging technologies.
+## Collaboration & Development 
 
-6. Foster a community of users and experts who can exchange knowledge and best practices in topological optimization.
-
-## Collaboration
-
-Whether you are a software developer, an engineer, or a UX designer, your expertise can contribute to the success of the mission.
+The 12 factor app, namely (https://12factor.net/) should be followed. Whether you are a software developer, an engineer, or a UX designer, 
+your expertise can contribute to the success of the mission.
 
 ## Stakeholders
 
